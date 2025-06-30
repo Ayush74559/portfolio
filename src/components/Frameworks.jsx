@@ -1,6 +1,6 @@
 import { OrbitingCircles } from "./OrbitingCircles";
 
-export function Frameworks() {
+export default function FrameWorksComponent() {
   const skills = [
     "auth0",
     "blazor",
